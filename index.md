@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## টিউটোরিয়ালবিডির শব্দ ভান্ডারে স্বাগতম
 
-You can use the [editor on GitHub](https://github.com/mahbub24/word/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+আমরা বিভিন্ন প্রযুক্তি শব্দের আর্থগুলোকে একসাথে সন্নিবেশিত করবো। মূলতঃওয়েবে যা আছে তা নিয়ে প্রাথমিক প্র্রোজেক্ট সাজাবো। তারপর রিইট করে একটি সম্পূর্ণ ডিকশনারীতে পরিনত হবে। 
 
 ### Markdown
 
